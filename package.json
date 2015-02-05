@@ -17,7 +17,7 @@
     "grunt-contrib-jshint": "~0.9.2",
     "grunt-gobble": "^0.1.1",
     "grunt-jsbeautifier": "~0.2.6",
-    "ractive": "^0.6.0",
+    "ractive": "^0.6.1",
     "spelunk": "^0.1.1",
     "vlq": "^0.1.0"
   },
